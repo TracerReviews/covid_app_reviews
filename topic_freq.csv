@@ -1,0 +1,32 @@
+Topic,Subcategory,Category,Europe,NorthAmerica,Australasia,Asia,MiddleEast,Africa,LatinAmerica
+Unsatisfactory results,Reliability,Reliability,9.474161378059836,0.0,0.0,4.180330540796036,5.67348514087225,0.0,19.402985074626866
+Contact trace functionality issue,Reliability,Reliability,0.0,11.682504192286194,0.0,1.367799980441373,0.0,0.0,0.0
+App crash,Reliability,Reliability,0.0,0.0,4.583950878678806,0.0,14.022899781294223,0.0,0.0
+Phone number format handling,Reliability,Reliability,0.0,0.0,14.260004234596655,0.0,0.0,0.0,0.0
+Results issue,Reliability,Reliability,0.0,0.0,0.0,0.0,0.0,20.81911262798635,0.0
+Battery usage,Performance,Performance,6.391659111514053,0.0,2.995977133178065,0.0,6.664093657532484,0.0,0.0
+Data load issue,Performance,Performance,0.0,0.0,0.0,0.9720637611239691,0.0,0.0,0.0
+Response error,Performance,Performance,0.0,0.0,0.0,1.1233171431365518,0.0,0.0,0.0
+Version Update,Version,Version,3.6113629495315807,0.0,0.0,0.0,9.23710279171491,0.0,0.0
+Compatibility,Version,Version,8.884859474161377,13.135830072666295,4.774507728138895,2.7802588258304266,6.985719799305287,0.0,0.0
+Impact on phone components,Configuration,Configuration,7.796917497733454,20.01117942984908,2.1808172771543513,2.040616748704241,4.309790299755564,31.56996587030717,0.0
+Bluetooth interference,Configuration,Configuration,0.0,0.0,5.568494600889266,0.0,0.0,0.0,0.0
+Location issues,Configuration,Configuration,0.0,0.0,2.477239042981156,0.0,0.0,0.0,0.0
+QR code,Authorization,Privacy and security,9.519492293744333,0.0,5.33559178488249,0.0,0.0,0.0,0.0
+Controlled access,Authorization,Privacy and security,10.954971290420067,0.0,0.0,0.0,3.332046828766242,0.0,0.0
+Login error,Authentication,Privacy and security,0.0,0.0,7.272919754393394,2.4845975812497962,0.0,0.0,0.0
+Verification code issue,Authentication,Privacy and security,0.0,0.0,6.246030065636248,0.0,6.226682104721472,0.0,15.422885572139304
+Location estimation,Feature shortcoming,Feature shortcoming,5.9685705651254155,0.0,0.0,0.0,0.0,0.0,0.0
+Language issue,Feature shortcoming,Feature shortcoming,0.0,0.0,0.0,0.0,0.0,0.0,13.432835820895523
+Satisfactory UI,UI design,Usability,15.7298277425204,16.433761878144214,0.0,0.0,0.0,0.0,0.0
+UI suggestions,UI design,Usability,8.779087337564219,0.0,3.7052720728350623,2.81644228575154,0.0,12.286689419795222,0.0
+Input suggestions,UI design,Usability,0.0,0.0,0.0,1.447012419728135,0.0,0.0,0.0
+UI issues,UI design,Usability,0.0,0.0,0.0,1.297714900413991,0.0,0.0,40.298507462686565
+Unsatisfactory usage,Negative UX,Usability,5.998791175581747,0.0,0.0,0.0,3.2805866460825936,0.0,0.0
+Uncertain feasibility,Negative UX,Usability,0.0,11.235326998323085,0.0,0.0,0.0,0.0,0.0
+Customer support issue,Negative UX,Usability,0.0,0.0,0.0,0.0,4.850122217933873,0.0,0.0
+Privacy concern,Privacy concern,Privacy and security,0.0,9.782001117942984,3.5147152233749734,0.0,4.335520391097388,0.0,0.0
+Mixed polarity in UX,Mixed polarity in UX,Usability,0.0,0.0,4.044039805208554,2.1690517325683736,0.0,0.0,0.0
+UX evolution,UX evolution,Usability,0.0,0.0,4.022866821935211,0.0,0.0,0.0,0.0
+Positive UX,Positive UX,Usability,6.890299184043518,17.71939631078815,19.129790387465594,77.32079408025557,31.08195034092371,35.32423208191126,11.442786069651742
+Download and installation UX,Download and installation UX,Usability,0.0,0.0,9.88778318865128,0.0,0.0,0.0,0.0
